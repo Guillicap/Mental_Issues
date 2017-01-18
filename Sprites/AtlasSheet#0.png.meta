@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 1192258f587d32a4f8c365f72127fb1b
+timeCreated: 1482342158
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pelvis
+    21300002: Cola
+    21300004: AtlasSheet#0_2
+    21300006: Brazo_D
+    21300008: Pierna_I
+    21300010: Pierna_D
+    21300012: AtlasSheet#0_6
+    21300014: Ala_D
+    21300016: Cuerno_D
+    21300018: AtlasSheet#0_9
+    21300020: AtlasSheet#0_10
+    21300022: AtlasSheet#0_11
+    21300024: AtlasSheet#0_12
+    21300026: AtlasSheet#0_13
+    21300028: Ala_I
+    21300030: AtlasSheet#0_15
+    21300032: Cuello
+    21300034: Lengua
+    21300036: Cabeza
+    21300038: Brazo_I
+    21300040: Cuerpo
+    21300042: Cuerno_I
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pelvis
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1804
+        width: 438
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cola
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1846
+        width: 285
+        height: 184
+      alignment: 9
+      pivot: {x: 0.087849505, y: 0.4374131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1963
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brazo_D
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1368
+        width: 228
+        height: 400
+      alignment: 9
+      pivot: {x: 0.10603284, y: 0.9260907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_I
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1408
+        width: 244
+        height: 360
+      alignment: 9
+      pivot: {x: 0.6510291, y: 0.93504775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_D
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1362
+        width: 306
+        height: 406
+      alignment: 9
+      pivot: {x: 0.48494646, y: 0.9651772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_6
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1433
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ala_D
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1387
+        width: 313
+        height: 381
+      alignment: 9
+      pivot: {x: 0.065851666, y: 0.33073622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuerno_D
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1405
+        width: 308
+        height: 365
+      alignment: 9
+      pivot: {x: 0.911285, y: 0.25390524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1420
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1415
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1358
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1370
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1346
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ala_I
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1044
+        width: 196
+        height: 288
+      alignment: 9
+      pivot: {x: 0.9112852, y: 0.38803905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AtlasSheet#0_15
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1328
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuello
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 688
+        width: 120
+        height: 320
+      alignment: 9
+      pivot: {x: 0.116134994, y: 0.03936081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lengua
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 136
+        width: 536
+        height: 1156
+      alignment: 9
+      pivot: {x: 0.94259167, y: 0.9801641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 638
+        width: 684
+        height: 656
+      alignment: 9
+      pivot: {x: 0.7862156, y: 0.22614455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brazo_I
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 172
+        height: 366
+      alignment: 9
+      pivot: {x: 0.7276413, y: 0.8838654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 34
+        width: 426
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuerno_I
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 147
+        width: 393
+        height: 453
+      alignment: 9
+      pivot: {x: 0.06045959, y: 0.31188014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

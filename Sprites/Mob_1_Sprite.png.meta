@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: b9827e045b04818468a13608601b993a
+timeCreated: 1482339079
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabeza
+    21300002: Oreja_I
+    21300004: Pierna_D
+    21300006: Pierna_I
+    21300008: Pie_D
+    21300010: Mano
+    21300012: Pie_I
+    21300014: Antebrazo
+    21300016: Oreja_D
+    21300018: Cuello
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1510
+        width: 465
+        height: 534
+      alignment: 9
+      pivot: {x: 0.50990623, y: 0.12907358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oreja_I
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1374
+        width: 320
+        height: 670
+      alignment: 9
+      pivot: {x: 0.92465174, y: 0.568752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_D
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1710
+        width: 366
+        height: 334
+      alignment: 9
+      pivot: {x: 0.1098416, y: 0.89305985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_I
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1710
+        width: 366
+        height: 334
+      alignment: 9
+      pivot: {x: 0.90274465, y: 0.89305985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pie_D
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1630
+        width: 436
+        height: 414
+      alignment: 9
+      pivot: {x: 0.10909082, y: 0.8894288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mano
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1200
+        width: 432
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47867438, y: 0.9299296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pie_I
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 951
+        width: 436
+        height: 413
+      alignment: 9
+      pivot: {x: 0.88562685, y: 0.9015253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Antebrazo
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 176
+        height: 365
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.828126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oreja_D
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 518
+        width: 309
+        height: 672
+      alignment: 9
+      pivot: {x: 0.104954146, y: 0.52741885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuello
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 408
+        width: 192
+        height: 404
+      alignment: 9
+      pivot: {x: 0.45201746, y: 0.1693434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

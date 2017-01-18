@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 0482401585e9e8947a6bd41db2dfb345
+timeCreated: 1481455287
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Brazo_I_BossParanoia
+    21300002: Ojos_BossParanoia_1
+    21300004: Cuerpo_BossParanoia
+    21300006: Dedos_I_BossParanoia
+    21300008: Dedos_D_BossParanoia
+    21300010: Brazo_D_BossParanoia
+    21300012: Antebrazo_I_BossParanoia
+    21300014: Cabeza_BossParanoia
+    21300016: Atlas_BossParanoia_0
+    21300018: Antebrazo_D_BossParanoia
+    21300020: Pata_BossParanoia_8
+    21300022: Pata_BossParanoia_7
+    21300024: Pata_BossParanoia_6
+    21300026: Pata_BossParanoia_4
+    21300028: Pata_BossParanoia_5
+    21300030: Pata_BossParanoia_3
+    21300032: Pata_BossParanoia_2
+    21300034: Pata_BossParanoia_1
+    21300036: Ojos_BossParanoia_2
+    21300038: Cuello_BossParanoia
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brazo_I_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7208
+        width: 621
+        height: 971
+      alignment: 9
+      pivot: {x: 0.8120428, y: 0.92657226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ojos_BossParanoia_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7923
+        width: 799
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuerpo_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 6163
+        width: 1186
+        height: 1744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dedos_I_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6529
+        width: 552
+        height: 538
+      alignment: 9
+      pivot: {x: 0.4922727, y: 0.78542125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dedos_D_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 7371
+        width: 694
+        height: 536
+      alignment: 9
+      pivot: {x: 0.53812534, y: 0.77585703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brazo_D_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 6660
+        width: 714
+        height: 1253
+      alignment: 9
+      pivot: {x: 0.82086915, y: 0.93524253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Antebrazo_I_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5444
+        width: 588
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.8638044, y: 0.9378215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabeza_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 4812
+        width: 1022
+        height: 1341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_BossParanoia_0
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 4302
+        width: 2702
+        height: 2004
+      alignment: 9
+      pivot: {x: 0.45469502, y: 0.36619484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Antebrazo_D_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3819
+        width: 344
+        height: 997
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_8
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 6337
+        width: 706
+        height: 1574
+      alignment: 9
+      pivot: {x: 0.8362297, y: 0.5557801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_7
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 6334
+        width: 729
+        height: 1567
+      alignment: 9
+      pivot: {x: 0.15653634, y: 0.5581042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_6
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 4689
+        width: 828
+        height: 1615
+      alignment: 9
+      pivot: {x: 0.115342, y: 0.56178015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_4
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 3069
+        width: 840
+        height: 1603
+      alignment: 9
+      pivot: {x: 0.110718936, y: 0.5629598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3216
+        width: 713
+        height: 1580
+      alignment: 9
+      pivot: {x: 0.8091444, y: 0.5727147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1624
+        width: 718
+        height: 1572
+      alignment: 9
+      pivot: {x: 0.84288496, y: 0.56264395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_2
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1428
+        width: 822
+        height: 1609
+      alignment: 9
+      pivot: {x: 0.16894397, y: 0.5699843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_BossParanoia_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 730
+        height: 1585
+      alignment: 9
+      pivot: {x: 0.7939092, y: 0.571124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ojos_BossParanoia_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4839
+        width: 381
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuello_BossParanoia
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5050
+        width: 305
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

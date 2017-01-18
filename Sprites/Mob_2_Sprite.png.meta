@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: f073262a96a58244a99dec84dacdec7c
+timeCreated: 1482172119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pie_D
+    21300002: Mob_2_Sprite_1
+    21300004: Tentaculo_3
+    21300006: Mob_2_Sprite_3
+    21300008: Mandibula
+    21300010: Pierna_I
+    21300012: Pie_I
+    21300014: Cabeza
+    21300016: Ropa
+    21300018: Tentaculo_2
+    21300020: Mob_2_Sprite_10
+    21300022: Mob_2_Sprite_11
+    21300024: Mob_2_Sprite_12
+    21300026: Antebrazo_D
+    21300028: Mob_2_Sprite_14
+    21300030: Mob_2_Sprite_15
+    21300032: Mob_2_Sprite_16
+    21300034: Cuello
+    21300036: Mano_D
+    21300038: Cuerpo
+    21300040: Mob_2_Sprite_20
+    21300042: Tentaculo_1
+    21300044: Mob_2_Sprite_22
+    21300046: Mob_2_Sprite_23
+    21300048: Pierna_D
+    21300050: Mob_2_Sprite_25
+    21300052: Mob_2_Sprite_26
+    21300054: Mob_2_Sprite_27
+    21300056: Antebrazo_I
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pie_D
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1770
+        width: 298
+        height: 278
+      alignment: 9
+      pivot: {x: 0.697575, y: 0.92357916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1815
+        width: 183
+        height: 233
+      alignment: 9
+      pivot: {x: 0.8346041, y: 0.06536891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1869
+        width: 125
+        height: 179
+      alignment: 9
+      pivot: {x: 0.8202935, y: 0.73682594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1847
+        width: 169
+        height: 203
+      alignment: 9
+      pivot: {x: 0.89019376, y: 0.09394904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mandibula
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1885
+        width: 310
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8034181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_I
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1368
+        width: 163
+        height: 384
+      alignment: 9
+      pivot: {x: 0.3699633, y: 0.92318183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pie_I
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1418
+        width: 311
+        height: 336
+      alignment: 9
+      pivot: {x: 0.6968892, y: 0.9205537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1199
+        width: 549
+        height: 553
+      alignment: 9
+      pivot: {x: 0.49571052, y: 0.052691992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ropa
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1459
+        width: 455
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo_2
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1397
+        width: 185
+        height: 355
+      alignment: 9
+      pivot: {x: 0.7291451, y: 0.17493054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1743
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1739
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1741
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Antebrazo_D
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1431
+        width: 172
+        height: 288
+      alignment: 9
+      pivot: {x: 0.52738494, y: 0.835275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1663
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1607
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1392
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuello
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1056
+        width: 142
+        height: 294
+      alignment: 9
+      pivot: {x: 0.71560705, y: 0.06743139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mano_D
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 967
+        width: 260
+        height: 424
+      alignment: 9
+      pivot: {x: 0.76268405, y: 0.9388039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 517
+        width: 501
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1069
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo_1
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 465
+        width: 379
+        height: 716
+      alignment: 9
+      pivot: {x: 0.7050614, y: 0.9637833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1051
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1035
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_D
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 584
+        width: 170
+        height: 365
+      alignment: 9
+      pivot: {x: 0.5138537, y: 0.8935918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 919
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 893
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mob_2_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 582
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Antebrazo_I
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 110
+        width: 194
+        height: 453
+      alignment: 9
+      pivot: {x: 0.33004415, y: 0.95750266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

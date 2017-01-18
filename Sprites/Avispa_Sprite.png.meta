@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 87bcfcdada61ef34ca8692b712284101
+timeCreated: 1482146338
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ala
+    21300002: cabeza
+    21300004: Avispa_Sprite_2
+    21300006: Boca
+    21300008: Pata_2
+    21300010: Pata_1
+    21300012: cuerpo
+    21300014: Aguja
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ala
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1420
+        width: 494
+        height: 628
+      alignment: 9
+      pivot: {x: 0.037561666, y: 0.9687696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1397
+        width: 936
+        height: 651
+      alignment: 9
+      pivot: {x: 0.12761271, y: 0.30102876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Avispa_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1717
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boca
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1581
+        width: 530
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1160
+        width: 139
+        height: 242
+      alignment: 9
+      pivot: {x: 0.8219196, y: 0.88927263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pata_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 845
+        width: 98
+        height: 297
+      alignment: 9
+      pivot: {x: 0.8845053, y: 0.8806222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuerpo
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 106
+        width: 1209
+        height: 1035
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aguja
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 140
+        width: 519
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5635286, y: 0.9409087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

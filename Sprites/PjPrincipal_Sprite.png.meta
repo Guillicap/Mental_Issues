@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 26ab7bee07565cf44926fa78f571c586
+timeCreated: 1480588388
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boca
+    21300002: PjPrincipal_Sprite_1
+    21300004: Ceja_D
+    21300006: Ceja_I
+    21300008: Ojo_Izquierdo
+    21300010: Ojo_Derecho
+    21300012: PjPrincipal_Sprite_6
+    21300014: AnteBrazo_D
+    21300016: Cinturo
+    21300018: Cuerpo
+    21300020: Pie_D
+    21300022: Brazo_D
+    21300024: Cara
+    21300026: Hombros
+    21300028: Brazo_I
+    21300030: AnteBrazo_I
+    21300032: Nariz
+    21300034: PantalonPierna_I
+    21300036: PantalonPierna_D
+    21300038: Cuello
+    21300040: Pierna_I
+    21300042: Pierna_D
+    21300044: Pie_I
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boca
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1921
+        width: 178
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PjPrincipal_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2013
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ceja_D
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1991
+        width: 132
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5270975, y: 0.6814336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ceja_I
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1998
+        width: 89
+        height: 39
+      alignment: 9
+      pivot: {x: 0.57144815, y: 0.6936192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ojo_Izquierdo
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1943
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ojo_Derecho
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1931
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PjPrincipal_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1952
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnteBrazo_D
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1472
+        width: 270
+        height: 411
+      alignment: 9
+      pivot: {x: 0.2708675, y: 0.91964537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cinturo
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1762
+        width: 343
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5326464, y: 0.3852679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1143
+        width: 472
+        height: 581
+      alignment: 9
+      pivot: {x: 0.44815323, y: 0.5514551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pie_D
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1588
+        width: 239
+        height: 135
+      alignment: 9
+      pivot: {x: 0.2297353, y: 0.74748534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brazo_D
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1087
+        width: 171
+        height: 345
+      alignment: 9
+      pivot: {x: 0.56577975, y: 0.91841596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cara
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 879
+        width: 526
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5719869, y: 0.3734837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hombros
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1380
+        width: 410
+        height: 170
+      alignment: 9
+      pivot: {x: 0.52408475, y: 0.5116175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brazo_I
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 711
+        width: 166
+        height: 338
+      alignment: 9
+      pivot: {x: 0.26283658, y: 0.91044194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AnteBrazo_I
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 763
+        width: 275
+        height: 342
+      alignment: 9
+      pivot: {x: 0.26139915, y: 0.8288985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nariz
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 927
+        width: 134
+        height: 178
+      alignment: 9
+      pivot: {x: 0.36702397, y: 0.37486833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PantalonPierna_I
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 285
+        width: 242
+        height: 390
+      alignment: 9
+      pivot: {x: 0.4631844, y: 0.859804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PantalonPierna_D
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 337
+        width: 307
+        height: 388
+      alignment: 9
+      pivot: {x: 0.56776375, y: 0.89545214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cuello
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 505
+        width: 90
+        height: 219
+      alignment: 9
+      pivot: {x: 0.57424587, y: 0.4389771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_I
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 95
+        width: 111
+        height: 154
+      alignment: 9
+      pivot: {x: 0.45986712, y: 0.8471206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pierna_D
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 112
+        height: 179
+      alignment: 9
+      pivot: {x: 0.53977424, y: 0.7737538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pie_I
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 165
+        width: 218
+        height: 136
+      alignment: 9
+      pivot: {x: 0.21009938, y: 0.8630425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
